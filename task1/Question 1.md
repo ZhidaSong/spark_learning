@@ -16,7 +16,9 @@ org.apache.spark.SparkException: Only one SparkContext may be running in this JV
 
 
 
-**问题解决**：**Spark-shell already prepares a spark-session or spark-context**
+**问题解决**：
+
+**Spark-shell already prepares a spark-session or spark-context**
 
 去掉 
 
